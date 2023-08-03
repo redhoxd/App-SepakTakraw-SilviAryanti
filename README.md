@@ -12,6 +12,7 @@ Social Interaction: Connect with fellow Sepak Takraw enthusiasts, share experien
 
 # Screenshots
 ![WhatsApp Image 2023-08-03 at 13 23 30](https://github.com/redhoxd/App-SepakTakraw-SilviAryanti/assets/38489058/23a14e0e-8ba3-4a45-af0b-f894126263dd)
+![WhatsApp Image 2023-08-03 at 13 23 30 (1)](https://github.com/redhoxd/App-SepakTakraw-SilviAryanti/assets/38489058/4bbdb630-adab-46e6-beb6-7c15b3e97720)
 
 # How to Use
 Clone the repository to your local machine.
